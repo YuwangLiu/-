@@ -2,602 +2,722 @@
     {
         "key": "zoaXy7",
         "id": 1,
-        "name": "123×ÊÔ´",
+        "name": "123èµ„æº",
         "api": "https://cms.voooe.cn/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÍÆ¼ö¹Ù·½½âÎö×ÊÔ´",
-        "isActive": true
+        "group": "é»˜è®¤",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "Eh7MMB",
         "id": 2,
-        "name": "1717×ÊÔ´",
+        "name": "1717èµ„æº",
         "api": "http://zy.itono.cn/inc/api.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÍÆ¼ö¹Ù·½½âÎö×ÊÔ´",
-        "isActive": true
+        "group": "é»˜è®¤",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "DwKR9L",
         "id": 4,
-        "name": "¿Ö²ÀÑ¼×ÊÔ´",
+        "name": "ææ€–é¸­èµ„æº",
         "api": "https://ya.kongbuya.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÍÆ¼ö¹Ù·½½âÎö×ÊÔ´",
-        "isActive": true
+        "group": "é»˜è®¤",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "Tr1qGC",
         "id": 5,
-        "name": "ÀÖß÷×ÊÔ´",
+        "name": "ä¹å–µèµ„æº",
         "api": "http://zy.singlive.cn/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÍÆ¼ö¹Ù·½½âÎö×ÊÔ´",
-        "isActive": true
+        "group": "é»˜è®¤",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "dyrK9Y",
         "id": 6,
-        "name": "7K×ÊÔ´",
+        "name": "7Kèµ„æº",
         "api": "https://zy.7kjx.com/cjapi.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÍÆ¼ö¹Ù·½½âÎö×ÊÔ´",
-        "isActive": true
+        "group": "é»˜è®¤",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "LlIird",
         "id": 7,
-        "name": "»¨Ô°Ó°ÊÓ",
+        "name": "èŠ±å›­å½±è§†",
         "api": "http://api.zz22x.com/inc/qb.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÍÆ¼ö¹Ù·½½âÎö×ÊÔ´",
-        "isActive": true
+        "group": "é»˜è®¤",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "IrO7t3",
         "id": 8,
-        "name": "Ã÷ÈÕ×ÊÔ´",
+        "name": "æ˜æ—¥èµ„æº",
         "api": "http://zy.zcocc.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÍÆ¼ö¹Ù·½½âÎö×ÊÔ´",
-        "isActive": true
+        "group": "é»˜è®¤",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "ZUULeH",
         "id": 9,
-        "name": "ÂÜ²·¹Ù·½×ÊÔ´",
+        "name": "èåœå®˜æ–¹èµ„æº",
         "api": "http://cj.lby.pet/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÍÆ¼ö¹Ù·½½âÎö×ÊÔ´",
-        "isActive": true
+        "group": "é»˜è®¤",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "2avyla",
         "id": 10,
-        "name": "Ğ¡Ğ¡×ÊÔ´",
+        "name": "å°å°èµ„æº",
         "api": "https://api.88jiexi.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÍÆ¼ö¹Ù·½½âÎö×ÊÔ´",
-        "isActive": true
+        "group": "é»˜è®¤",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "ZFosyI",
         "id": 11,
-        "name": "Áã¶È×ÊÔ´",
+        "name": "é›¶åº¦èµ„æº",
         "api": "https://zy.kuluni.cn/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÍÆ¼ö¹Ù·½½âÎö×ÊÔ´",
-        "isActive": true
+        "group": "é»˜è®¤",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "Cv5ocv",
         "id": 12,
-        "name": "ÃÎÀ¶×ÊÔ´",
+        "name": "æ¢¦è“èµ„æº",
         "api": "https://www.mlzy.cc/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÍÆ¼ö¹Ù·½½âÎö×ÊÔ´",
-        "isActive": true
+        "group": "é»˜è®¤",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "w8nkry",
         "id": 13,
-        "name": "È¤²½TV",
+        "name": "è¶£æ­¥TV",
         "api": "http://qubu.tv/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÍÆ¼ö¹Ù·½½âÎö×ÊÔ´",
-        "isActive": true
+        "group": "é»˜è®¤",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "2bDyy6",
         "id": 14,
-        "name": "ÔÆ¿´¾ç",
+        "name": "äº‘çœ‹å‰§",
         "api": "https://www.yunkanju.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÍÆ¼ö¹Ù·½½âÎö×ÊÔ´",
-        "isActive": true
+        "group": "é»˜è®¤",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "uqA8SD",
         "id": 15,
-        "name": "4KÓãÓ°ÊÓ",
+        "name": "4Ké±¼å½±è§†",
         "api": "http://4kyu.cc/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÍÆ¼ö¹Ù·½½âÎö×ÊÔ´",
-        "isActive": true
+        "group": "é»˜è®¤",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "q3c427",
         "id": 16,
-        "name": "ÉñÂíÓ°Ôº(niuxÔÆ)",
+        "name": "ç¥é©¬å½±é™¢(niuxäº‘)",
         "api": "https://www.shenma4480.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÓÅÖÊ×ÊÔ´",
-        "isActive": true
+        "group": "ä¼˜è´¨èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "xiHpyX",
         "id": 17,
-        "name": "¶à¶àÔÆddyunp",
+        "name": "å¤šå¤šäº‘ddyunp",
         "api": "http://api.ddyunp.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÓÅÖÊ×ÊÔ´",
-        "isActive": true
+        "group": "ä¼˜è´¨èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "mHvi6F",
         "id": 18,
-        "name": "ÎÖ¿ám3u8×ÊÔ´",
+        "name": "æ²ƒé…·m3u8èµ„æº",
         "api": "https://api.wokuzy.com/api/xml/wokum3u8",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÓÅÖÊ×ÊÔ´",
-        "isActive": true
+        "group": "ä¼˜è´¨èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "UQK7eA",
         "id": 20,
-        "name": "9ÒÚ¿´¿´",
+        "name": "9äº¿çœ‹çœ‹",
         "api": "http://www.9ekk.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÓÅÖÊ×ÊÔ´",
-        "isActive": true
+        "group": "ä¼˜è´¨èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "x7FSnl",
         "id": 21,
-        "name": "Ğ¡ÊÕÓ°Ôº",
+        "name": "å°æ”¶å½±é™¢",
         "api": "http://www.p4kan.com/inc/api.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÓÅÖÊ×ÊÔ´",
-        "isActive": true
+        "group": "ä¼˜è´¨èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "Eoiow6",
         "id": 22,
-        "name": "ÆæÁìyy6080",
+        "name": "å¥‡é¢†yy6080",
         "api": "http://yyid6080.cn/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÓÅÖÊ×ÊÔ´",
-        "isActive": true
+        "group": "ä¼˜è´¨èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "1ef30E",
         "id": 23,
-        "name": "Õ¬¿´Ó°ÊÓ",
+        "name": "å®…çœ‹å½±è§†",
         "api": "http://www.zkk7.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÓÅÖÊ×ÊÔ´",
-        "isActive": true
+        "group": "ä¼˜è´¨èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "uQ35u1",
         "id": 25,
-        "name": "¼«ËÙ¿´Æ¬",
+        "name": "æé€Ÿçœ‹ç‰‡",
         "api": "https://www.jisukanpian.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÓÅÖÊ×ÊÔ´",
-        "isActive": true
+        "group": "ä¼˜è´¨èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "PwVwXr",
         "id": 26,
-        "name": "²½²½¸ß×ÊÔ´",
+        "name": "æ­¥æ­¥é«˜èµ„æº",
         "api": "http://api.bbkdj.com/api",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÓÅÖÊ×ÊÔ´",
-        "isActive": true
+        "group": "ä¼˜è´¨èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "mKcnMf",
         "id": 27,
-        "name": "123×ÊÔ´",
+        "name": "123èµ„æº",
         "api": "http://www.123ku.com/inc/api.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "ozV0sc",
         "id": 28,
-        "name": "605×ÊÔ´",
+        "name": "605èµ„æº",
         "api": "http://www.605zy.co/inc/api.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "u7C3Tf",
         "id": 29,
-        "name": "88×ÊÔ´",
+        "name": "88èµ„æº",
         "api": "http://www.88zyw.net/inc/api.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "IUdc0k",
         "id": 30,
-        "name": "33uu×ÊÔ´",
+        "name": "33uuèµ„æº",
         "api": "http://www.209zy.net/inc/api.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "JguHuq",
         "id": 31,
-        "name": "1886×ÊÔ´",
+        "name": "1886èµ„æº",
         "api": "http://cj.1886zy.co/inc/api.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "WxYkxD",
         "id": 32,
-        "name": "¿ì²¥×ÊÔ´",
+        "name": "å¿«æ’­èµ„æº",
         "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "HXZX1Q",
         "id": 33,
-        "name": "ÂéÈ¸×ÊÔ´",
+        "name": "éº»é›€èµ„æº",
         "api": "http://api.maquezy.com/inc/api.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "1N6d2w",
         "id": 34,
-        "name": "ÈËÈË×ÊÔ´",
+        "name": "äººäººèµ„æº",
         "api": "http://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "eIE4n8",
         "id": 35,
-        "name": "Âé»¨×ÊÔ´",
+        "name": "éº»èŠ±èµ„æº",
         "api": "https://www.mhapi123.com/inc/ldg_api_all.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "58cw8n",
         "id": 36,
-        "name": "¿áÔÆ×ÊÔ´",
+        "name": "é…·äº‘èµ„æº",
         "api": "http://caiji.kuyun98.com/inc/ldg_api.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "oiaABT",
         "id": 37,
-        "name": "°Ë½ä×ÊÔ´",
+        "name": "å…«æˆ’èµ„æº",
         "api": "http://cj.bajiecaiji.com/inc/api.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "pU4Krv",
         "id": 38,
-        "name": "×î´ó×ÊÔ´",
+        "name": "æœ€å¤§èµ„æº",
         "api": "http://www.zdziyuan.com/inc/api.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "26dVIS",
         "id": 39,
-        "name": "OK×ÊÔ´",
+        "name": "OKèµ„æº",
         "api": "http://cj.okzy.tv/inc/api.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "1Ir4Uh",
         "id": 40,
-        "name": "ÓÀ¾Ã×ÊÔ´",
+        "name": "æ°¸ä¹…èµ„æº",
         "api": "http://cj.yongjiuzyw.com/inc/api.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "bzcfee",
         "id": 41,
-        "name": "¿á²¥×ÊÔ´",
+        "name": "é…·æ’­èµ„æº",
         "api": "http://api.kbzyapi.com/inc/api.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "dI5LfC",
         "id": 42,
-        "name": "×îĞÂ×ÊÔ´",
+        "name": "æœ€æ–°èµ„æº",
         "api": "http://api.zuixinapi.com/inc/api.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "31kfvl",
         "id": 43,
-        "name": "Ãë²¥×ÊÔ´",
+        "name": "ç§’æ’­èµ„æº",
         "api": "http://caiji.mb77.vip/inc/api.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "547gw2",
         "id": 44,
-        "name": "ËÙ²¥×ÊÔ´",
+        "name": "é€Ÿæ’­èµ„æº",
         "api": "http://www.subo988.com/inc/api.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "MC00Nm",
         "id": 45,
-        "name": "¾ÛºÏ×ÊÔ´",
+        "name": "èšåˆèµ„æº",
         "api": "https://cj.cbi88.com/inc/api_juhem3u8.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "btu2dc",
         "id": 46,
-        "name": "Ìì¿Õ×ÊÔ´",
+        "name": "å¤©ç©ºèµ„æº",
         "api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "CpVeAG",
         "id": 47,
-        "name": "°Ù¶ÈÔÆ×ÊÔ´",
+        "name": "ç™¾åº¦äº‘èµ„æº",
         "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "mwsYTd",
         "id": 48,
-        "name": "µÛ¹ú×ÊÔ´",
+        "name": "å¸å›½èµ„æº",
         "api": "http://www.yszydg.com/inc/api.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "OFY4PI",
         "id": 49,
-        "name": "ÀÖ¶à×ÊÔ´",
+        "name": "ä¹å¤šèµ„æº",
         "api": "http://www.leduozy.com/inc/seacmsapi.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "XmNz8n",
         "id": 50,
-        "name": "´©Ëó×ÊÔ´",
+        "name": "ç©¿æ¢­èµ„æº",
         "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "ÇĞÆ¬×ÊÔ´",
-        "isActive": true
+        "group": "åˆ‡ç‰‡èµ„æº",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "xkgpY4",
         "id": 52,
-        "name": "Ê®µãÓ°ÊÓ",
+        "name": "åç‚¹å½±è§†",
         "api": "http://shidian.vip/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "11UPTk",
         "id": 53,
-        "name": "Å£Å£Ó°Ôº",
+        "name": "ç‰›ç‰›å½±é™¢",
         "api": "https://www.48da.net/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "kZVwS1",
         "id": 54,
-        "name": "ÂìÒÏBT",
+        "name": "èš‚èšBT",
         "api": "https://www.mayipbt.cc/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "iH8bkj",
         "id": 55,
-        "name": "ĞÂÆæÓöµçÓ°",
+        "name": "æ–°å¥‡é‡ç”µå½±",
         "api": "https://www.newqiyu.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "D9Qyg3",
         "id": 56,
-        "name": "Ì«³õµçÓ°",
+        "name": "å¤ªåˆç”µå½±",
         "api": "https://www.tcmove.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "hJS5YO",
         "id": 57,
-        "name": "ÈËÈËÓ°Ôº",
+        "name": "äººäººå½±é™¢",
         "api": "https://www.rryy99.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "4t2ZUp",
         "id": 58,
-        "name": "HDÓ°Ôº",
+        "name": "HDå½±é™¢",
         "api": "http://www.ihdtvw.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "oSbomF",
         "id": 59,
-        "name": "ÉñÂíµçÓ°Íø",
+        "name": "ç¥é©¬ç”µå½±ç½‘",
         "api": "https://52gbyy.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "eRaCKz",
         "id": 60,
-        "name": "ÈÕ¾çÀ²",
+        "name": "æ—¥å‰§å•¦",
         "api": "https://www.rijula.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "ll45UN",
         "id": 61,
-        "name": "Ì©¾çÃÔ",
+        "name": "æ³°å‰§è¿·",
         "api": "https://www.taijumi.cc/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "Azzrwj",
         "id": 62,
-        "name": "Ãâ·ÑÓ°Ôº",
+        "name": "å…è´¹å½±é™¢",
         "api": "http://www.ruiuri.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "1LyRsT",
         "id": 63,
-        "name": "ÌìÌìÓ°ÊÓÍø",
+        "name": "å¤©å¤©å½±è§†ç½‘",
         "api": "http://www.tiantysw.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "Wz95L3",
         "id": 64,
-        "name": "PZÓ°ÊÓ",
+        "name": "PZå½±è§†",
         "api": "https://puz.pub/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "HdTJA7",
@@ -606,477 +726,573 @@
         "api": "http://www.awsltv.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "RZrGjE",
         "id": 66,
-        "name": "39Ó°ÊÓ",
+        "name": "39å½±è§†",
         "api": "https://www.39kan.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "Ldv5Xn",
         "id": 67,
-        "name": "¾ÍÒª¿´µçÓ°",
+        "name": "å°±è¦çœ‹ç”µå½±",
         "api": "https://www.jykdy.vip/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "ld2CNl",
         "id": 68,
-        "name": "Ğ¡³æ×·¾ç",
+        "name": "å°è™«è¿½å‰§",
         "api": "http://ixiazai.vip/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "ZH1AX4",
         "id": 69,
-        "name": "°®¿´µçÓ°",
+        "name": "çˆ±çœ‹ç”µå½±",
         "api": "http://www.ikanmv.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "Hv0Ebo",
         "id": 70,
-        "name": "ÆæÀÖµçÓ°Íø",
+        "name": "å¥‡ä¹ç”µå½±ç½‘",
         "api": "http://www.1qile.com/inc/api.php",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "NH43CR",
         "id": 71,
-        "name": "¹²Çà´ºÓ°Ôº",
+        "name": "å…±é’æ˜¥å½±é™¢",
         "api": "http://gqcyy.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "Hib20Y",
         "id": 72,
-        "name": "²¥ÍõTV",
+        "name": "æ’­ç‹TV",
         "api": "https://bowang.tv/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "8ajiv7",
         "id": 73,
-        "name": "ÀÖ²¥µçÓ°Íø",
+        "name": "ä¹æ’­ç”µå½±ç½‘",
         "api": "https://www.lebo.la/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "qK7rYA",
         "id": 74,
-        "name": "¶º¿´Ó°ÊÓ",
+        "name": "é€—çœ‹å½±è§†",
         "api": "https://www.doukanzy.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "ea6qkl",
         "id": 75,
-        "name": "¶û¶«Ó°ÊÓ",
+        "name": "å°”ä¸œå½±è§†",
         "api": "http://www.edysw.cn/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "2uxyHd",
         "id": 76,
-        "name": "ADCµçÓ°Íø",
+        "name": "ADCç”µå½±ç½‘",
         "api": "https://www.adcmove.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "hIUuy8",
         "id": 77,
-        "name": "×·¾ç°É",
+        "name": "è¿½å‰§å§",
         "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "uT0IAr",
         "id": 78,
-        "name": "365Ó°ÊÓ",
+        "name": "365å½±è§†",
         "api": "http://video.365tx.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
-        "group": "Èı·½¾ÛºÏÓ°ÊÓ",
-        "isActive": true
+        "group": "ä¸‰æ–¹èšåˆå½±è§†",
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "fwJ4Le",
         "id": 79,
-        "name": "1024×ÊÔ´",
+        "name": "1024èµ„æº",
         "api": "https://www.1024nf.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "zrNCSt",
         "id": 80,
-        "name": "À±½·×ÊÔ´",
+        "name": "è¾£æ¤’èµ„æº",
         "api": "http://api.11bat.com/mac10.php",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "zCKCn7",
         "id": 81,
-        "name": "ÀÖ²¥×ÊÔ´",
+        "name": "ä¹æ’­èµ„æº",
         "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "fCp7EQ",
         "id": 82,
-        "name": "²©ÌìÌÃ",
+        "name": "åšå¤©å ‚",
         "api": "http://bttcj.com/inc/sapi.php",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "COEW7h",
         "id": 83,
-        "name": "IXX×ÊÔ´",
+        "name": "IXXèµ„æº",
         "api": "http://api.iixxzyapi.com/inc/api.php",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "WFJVgO",
         "id": 84,
-        "name": "800×ÊÔ´",
+        "name": "800èµ„æº",
         "api": "http://cj.809zy.com/inc/zyapimac.php",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "mynK5K",
         "id": 85,
-        "name": "35×ÊÔ´",
+        "name": "35èµ„æº",
         "api": "http://cj.35zycj.com/inc/zyapimac.php",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "YZiKJF",
         "id": 86,
-        "name": "»·ÑÇ×ÊÔ´",
+        "name": "ç¯äºšèµ„æº",
         "api": "http://wmcj8.com/inc/sapi.php",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "1yPLYl",
         "id": 87,
-        "name": "JAVÃûÓÅ",
+        "name": "JAVåä¼˜",
         "api": "http://mygzycj.com/api.php",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "lJFAdT",
         "id": 88,
-        "name": "av888×ÊÔ´",
+        "name": "av888èµ„æº",
         "api": "http://m.7777688.com/inc/api.php",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "A8YCFU",
         "id": 89,
-        "name": "É«É«×ÊÔ´",
+        "name": "è‰²è‰²èµ„æº",
         "api": "http://sscj8.com/inc/api.php",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "dTt2cr",
         "id": 90,
-        "name": "¾Á¾Á×ÊÔ´",
+        "name": "ç–ç–èµ„æº",
         "api": "http://99zywcj.com/inc/ck.php",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "UxNUz1",
         "id": 91,
-        "name": "ß£ËÀÄã×ÊÔ´",
+        "name": "æ’¸æ­»ä½ èµ„æº",
         "api": "http://lsnzxcj.com/inc/sapi.php",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "CrtXs6",
         "id": 92,
-        "name": "¸»¶ş´ú×ÊÔ´",
-        "api": "¸»¶ş´ú×ÊÔ´",
+        "name": "å¯ŒäºŒä»£èµ„æº",
+        "api": "å¯ŒäºŒä»£èµ„æº",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "O9DN9W",
         "id": 93,
-        "name": "×ÖÄ»Íø",
+        "name": "å­—å¹•ç½‘",
         "api": "http://zmcj88.com/api",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "cDnEFy",
         "id": 94,
-        "name": "¾Ã²İ×ÊÔ´",
+        "name": "ä¹…è‰èµ„æº",
         "api": "http://jcspcj8.com/api",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "PrujbZ",
         "id": 95,
-        "name": "ÀûÀ´×ÊÔ´",
+        "name": "åˆ©æ¥èµ„æº",
         "api": "http://llzxcj.com/inc/ck.php",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "zJUzSw",
         "id": 96,
-        "name": "¼ÑÀö×ÊÔ´",
+        "name": "ä½³ä¸½èµ„æº",
         "api": "http://jialixx.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "OQijfb",
         "id": 97,
-        "name": "Ğ¡»Æ¹Ï×ÊÔ´",
+        "name": "å°é»„ç“œèµ„æº",
         "api": "http://cj.xhgcjym.com/inc/ldg_sea.php",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "SlSwZj",
         "id": 98,
-        "name": "¿ì»î×ÊÔ´",
+        "name": "å¿«æ´»èµ„æº",
         "api": "https://www.khzyapi.com/api.php/Seacms/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "fFR8oN",
         "id": 99,
-        "name": "ÅÚÌ¨×ÊÔ´",
+        "name": "ç‚®å°èµ„æº",
         "api": "http://ptcj.ptzycj.com/api.php/hyang/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "G3aUOU",
         "id": 100,
-        "name": "·¬ºÅ×ÊÔ´",
+        "name": "ç•ªå·èµ„æº",
         "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "lFT6uP",
         "id": 101,
-        "name": "²ÔÌì×ÊÔ´",
+        "name": "è‹å¤©èµ„æº",
         "api": "http://cj.cangtiancj.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "2gDrNw",
         "id": 102,
-        "name": "öèÓã×ÊÔ´",
+        "name": "é²¨é±¼èµ„æº",
         "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "Tp1QxY",
         "id": 103,
-        "name": "ÀÇÉÙÄê",
+        "name": "ç‹¼å°‘å¹´",
         "api": "http://cjmygzy.com/inc/api.php",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "bL6CmX",
         "id": 104,
-        "name": "77×ÊÔ´",
+        "name": "77èµ„æº",
         "api": "https://www.77zyw.live/inc/api.php",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "HsWrKq",
         "id": 105,
-        "name": "ËÙ¶È×ÊÔ´",
+        "name": "é€Ÿåº¦èµ„æº",
         "api": "http://www.ggmmzy.com:9999/inc/xml",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "4kIrgE",
         "id": 106,
-        "name": "ÓÅ¹û×ÊÔ´",
+        "name": "ä¼˜æœèµ„æº",
         "api": "https://www.ugvapi.com/inc/zyapimac.php",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "E0HiJd",
         "id": 107,
-        "name": "ÇÑ×Ó×ÊÔ´",
+        "name": "èŒ„å­èµ„æº",
         "api": "http://ssl.qieziapi.xyz/inc/api.php",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "0qFYJK",
         "id": 108,
-        "name": "3ºÏ×ÊÔ´",
+        "name": "3åˆèµ„æº",
         "api": "https://www.3heyingshi.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "b7mkcP",
         "id": 109,
-        "name": "´óÅÚ×ÊÔ´(ÎŞË®Ó¡)",
+        "name": "å¤§ç‚®èµ„æº(æ— æ°´å°)",
         "api": "http://dgdy.me/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": true
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "VOJrAj",
         "id": 110,
-        "name": "¶À¼Ò×ÊÔ´",
+        "name": "ç‹¬å®¶èµ„æº",
         "api": "http://dujiazy3.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": "µ¼Èë"
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "esI45c",
         "id": 111,
-        "name": "92°®×ÊÔ´",
+        "name": "92çˆ±èµ„æº",
         "api": "http://www.92aizy.com/api/macs.php",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": "µ¼Èë"
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     },
     {
         "key": "PBTWlY",
         "id": 112,
-        "name": "»¨½·×ÊÔ´",
+        "name": "èŠ±æ¤’èµ„æº",
         "api": "https://apihjzy.com/api.php/provide/vod/at/xml/",
         "download": "",
         "jiexiUrl": "",
         "group": "18+",
-        "isActive": "µ¼Èë"
+        "isActive": true,
+        "status": "å¯ç”¨",
+        "reverseOrder": false
     }
 ]
